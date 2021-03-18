@@ -11,3 +11,4 @@ IMP- Time required in Sorting Comparison for Bubble Sort, Insertion Sort, Merge 
   4) MergeSort- Basic Implementation/ Space Optimized Code/ Exercise- Sorting Time Taken by Athletes in Marathon
   5) Selection Sort- Basic Implementation
   6) Shell Sort- Basic Implementation
+  7) Tree Sorting- Basic Implementation
